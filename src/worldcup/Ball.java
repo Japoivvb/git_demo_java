@@ -10,6 +10,7 @@ public class Ball {
     String material;
     /** diameter of ball **/
     int diameter; /** New field **/
+    
 
     /**
      *  Sets the ball in motion
